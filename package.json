@@ -11,7 +11,11 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "EnableWebviewMusicPlay.podspec"
+    "EnableWebviewMusicPlay.podspec",
+    "src/",
+    "enable-webview-music-play.d.ts",
+    "package.json",
+    "package-lock.json"
   ],
   "author": "Joshua Madero",
   "private": true,
