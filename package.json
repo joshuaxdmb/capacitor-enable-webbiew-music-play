@@ -1,6 +1,6 @@
 {
   "name": "enable-webview-music-play",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Enables playing music on a Capacitor app without getting Apple entitlement issues",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
