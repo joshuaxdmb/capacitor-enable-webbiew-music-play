@@ -1,0 +1,25 @@
+{
+  "api": {
+    "name": "WebViewMusicPlayPluginPlugin",
+    "slug": "webviewmusicplaypluginplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "setCustomWebViewSettings",
+        "signature": "() => Promise<void>",
+        "parameters": [],
+        "returns": "Promise<void>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "setcustomwebviewsettings"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}
